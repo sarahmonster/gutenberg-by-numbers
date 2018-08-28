@@ -1,0 +1,86 @@
+{
+  "name": "languages",
+  "color": "hsl(193, 70%, 50%)",
+  "children": [
+      {
+        "name": "Mandarin",
+        "number": 955
+      },
+      {
+        "name": "Spanish",
+        "number": 405
+      },
+      {
+        "name": "English",
+        "number": 360
+      },
+      {
+        "name": "Hindi",
+        "number": 310
+      },
+      {
+        "name": "Arabic",
+        "number": 295
+      },
+      {
+        "name": "Portugese",
+        "number": 215
+      },
+      {
+        "name": "Bengali",
+        "number": 205
+      },
+      {
+        "name": "Russian",
+        "number": 155
+      },
+      {
+        "name": "Japanese",
+        "number": 125
+      },
+      {
+        "name": "Punjabi",
+        "number": 100
+      },
+      {
+        "name": "German",
+        "number": 95
+      },
+      {
+        "name": "Javanese",
+        "number": 82
+      },
+      {
+        "name": "Wu",
+        "number": 80
+      },
+      {
+        "name": "Malay",
+        "number": 77
+      },
+      {
+        "name": "Telugu",
+        "number": 76
+      },
+      {
+        "name": "Vietnamese",
+        "number": 76
+      },
+      {
+        "name": "Korean",
+        "number": 76
+      },
+      {
+        "name": "French",
+        "number": 75
+      },
+      {
+        "name": "Marathi",
+        "number": 73
+      },
+      {
+        "name": "Tamil",
+        "number": 70
+    }
+  ]
+}
