@@ -108,6 +108,23 @@
     react-motion "^0.5.2"
     recompose "^0.26.0"
 
+"@nivo/legends@^0.46.0":
+  version "0.46.0"
+  resolved "https://registry.yarnpkg.com/@nivo/legends/-/legends-0.46.0.tgz#1bf1746b5f0bbfec0dd2cb69b913cded5cfef666"
+  dependencies:
+    lodash "^4.17.4"
+    recompose "^0.26.0"
+
+"@nivo/waffle@^0.46.0":
+  version "0.46.0"
+  resolved "https://registry.yarnpkg.com/@nivo/waffle/-/waffle-0.46.0.tgz#82639044a0db1e1cf78e1535a251bcfefbec34ff"
+  dependencies:
+    "@nivo/core" "^0.46.0"
+    "@nivo/legends" "^0.46.0"
+    lodash "^4.17.4"
+    react-motion "^0.5.2"
+    recompose "^0.26.0"
+
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"

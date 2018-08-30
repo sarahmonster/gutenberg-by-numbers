@@ -1,0 +1,20 @@
+[
+  {
+    "id": "men",
+    "label": "men",
+    "value": 16.33948091757105,
+    "color": "#468df3"
+  },
+  {
+    "id": "women",
+    "label": "women",
+    "value": 28.920680070611787,
+    "color": "#ba72ff"
+  },
+  {
+    "id": "children",
+    "label": "children",
+    "value": 10.45488301702034,
+    "color": "#a1cfff"
+  }
+]

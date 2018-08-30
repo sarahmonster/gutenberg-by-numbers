@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import LanguageChart from './components/languages';
+import BlockDistributionChart from './components/block-distribution';
 
 class App extends Component {
   render() {
@@ -14,6 +15,10 @@ class App extends Component {
 
         <div className="chart">
           <LanguageChart />
+        </div>
+
+        <div className="chart">
+          <BlockDistributionChart />
         </div>
       </div>
     );

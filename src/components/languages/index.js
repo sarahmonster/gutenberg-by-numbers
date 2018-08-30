@@ -28,7 +28,7 @@ export default class LanguageChart extends React.Component {
                 labelSkipRadius={ 30 }
                 borderColor="#0073AF"
                 borderWidth={ 3 }
-                fill= "#fff"
+                //fill= "#fff"
                 animate={ true }
                 motionStiffness={ 90 }
                 motionDamping={ 12 }
