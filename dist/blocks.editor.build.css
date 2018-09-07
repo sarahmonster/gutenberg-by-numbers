@@ -1,0 +1,18 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+ * 
+ * Color variables pulled directly from https://github.com/WordPress/gutenberg/blob/5b81cbc66c5d52f9603f77a60ec7864150173dd0/edit-post/assets/stylesheets/_colors.scss; would be nice to pull them in magically!
+*/
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+.wp-block-cgb-block-gutenberg-by-numbers {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem; }

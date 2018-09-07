@@ -1,0 +1,35 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-gutenberg-by-numbers-stat-number {
+	font-family: $default-font;
+	line-height: 1;
+
+	.number {
+		color: $blue-wordpress-700;
+		font-size: 76px;
+		letter-spacing: -0.04em;
+		font-weight: 200;
+		margin: 0 0.1em 0 -0.1em;
+	}
+
+	.unit {
+		color: $blue-wordpress-700;
+		opacity: 0.6;
+		font-size: 39px;
+		letter-spacing: -0.01em;
+		font-weight: 400;
+	}
+
+	.description {
+		text-transform: uppercase;
+		font-size: 18px;
+		letter-spacing: 0.01em;
+		display: block;
+		color: $dark-gray-150; // would be more accessible at 300
+		font-weight: 600;
+	}
+}

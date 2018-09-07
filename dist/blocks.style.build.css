@@ -1,0 +1,35 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+ * 
+ * Color variables pulled directly from https://github.com/WordPress/gutenberg/blob/5b81cbc66c5d52f9603f77a60ec7864150173dd0/edit-post/assets/stylesheets/_colors.scss; would be nice to pull them in magically!
+*/
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+.wp-block-gutenberg-by-numbers-stat-number {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1; }
+  .wp-block-gutenberg-by-numbers-stat-number .number {
+    color: #00669b;
+    font-size: 76px;
+    letter-spacing: -0.04em;
+    font-weight: 200;
+    margin: 0 0.1em 0 -0.1em; }
+  .wp-block-gutenberg-by-numbers-stat-number .unit {
+    color: #00669b;
+    opacity: 0.6;
+    font-size: 39px;
+    letter-spacing: -0.01em;
+    font-weight: 400; }
+  .wp-block-gutenberg-by-numbers-stat-number .description {
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 0.01em;
+    display: block;
+    color: #8d96a0;
+    font-weight: 600; }
